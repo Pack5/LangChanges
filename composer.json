@@ -1,0 +1,8 @@
+{
+    "require": {
+        "flarum/core": "^v0.1.0-beta.7",
+
+        "cbmainz/flarum-de": "^0.6.1",
+		"metastore/flarum-ext-russian": "^0.1.0-beta.7.1"
+    }
+}
