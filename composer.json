@@ -3,6 +3,18 @@
         "flarum/core": "^v0.1.0-beta.7",
 
         "cbmainz/flarum-de": "^0.6.1",
-		"metastore/flarum-ext-russian": "^0.1.0-beta.7.1"
+		"metastore/flarum-ext-russian": "^0.1.0-beta.7.1",
+		"rodymolenaar/flarum-ext-dutch": "*",
+		"realodix/flarum-ext-indonesian": "*",
+		"milescellar/flarum-ext-french": "*",
+		"flarumes/flarum-ext-spanish": "^v0.1.0-beta.7",
+		"acarlsson/flarum-ext-swedish": "^v0.1.0-beta.5.5",
+		"lukaszflorczak/flarum-ext-polish": "^v0.1.0-beta.6.1",
+		"bek/flarum-ext-turkish": "*",
+		"lcbcruz/flarum-portuguese": "*",
+		"flame05/flarum-ita": "*",
+		"csineneo/flarum-ext-simplified-chinese": "^v0.1.0-beta.7.9",
+		"csineneo/flarum-ext-traditional-chinese": "^v0.1.0-beta.7.9"
     }
 }
+
